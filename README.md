@@ -17,7 +17,7 @@ FileToBeFiltered.txt
 3 3  3                             
 4 4  4   4                             
 
-filter.txt
+filter.txt                                
 2 2                                
 3 3 3                                
 
@@ -28,6 +28,6 @@ FileToBeFiltered.txt
 1                                
 4 4  4   4                             
 
-filter.txt
+filter.txt                                
 2 2                                
 3 3 3                                
