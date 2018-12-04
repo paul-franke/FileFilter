@@ -12,22 +12,22 @@ Sample invocation: FilterFile -f filter.txt < FileToBeFiltered.txt.
 Pre run contents:
 
 FileToBeFiltered.txt               
-1
+1                                
 2 2                                
 3 3  3                             
-4 4   4    4 
+4 4  4   4                             
 
 filter.txt
-2 2
-3 3 3
+2 2                                
+3 3 3                                
 
 
 Post run contents:
 
 FileToBeFiltered.txt               
-1
-4 4   4    4                        
+1                                
+4 4  4   4                             
 
 filter.txt
-2 2
-3 3 3
+2 2                                
+3 3 3                                
