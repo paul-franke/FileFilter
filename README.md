@@ -10,17 +10,26 @@ Note: All white space is ignored
 Sample: FilterFile -f filter.txt < FileToBeFiltered.txt.
 
 Pre run contents:
+
 FileToBeFiltered.txt               filter.txt
 
+
 1
+
 2 2                                 2 2
+
 3 3  3                              3 3 3
+
 4 4   4    4 
 
 
-Post run contents:");
+
+Post run contents:
+
 FileToBeFiltered.txt               filter.txt
 
 1                                   2 2
+
 4 4   4    4                        3 3 3
+
 
