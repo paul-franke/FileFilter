@@ -7,7 +7,7 @@ The text to be filtered out is read from a file.
 
 Note: All white space is ignored               
 
-Sample invocation: FilterFile -f filter.txt < FileToBeFiltered.txt.               
+Sample invocation: FilterFile -f filter.txt < FileToBeFiltered.txt             
 
 Pre run contents:               
 
