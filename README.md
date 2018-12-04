@@ -11,25 +11,33 @@ Sample: FilterFile -f filter.txt < FileToBeFiltered.txt.
 
 Pre run contents:
 
-FileToBeFiltered.txt               filter.txt
+FileToBeFiltered.txt               
 
 
 1
 
-2 2                                 2 2
+2 2                                
 
-3 3  3                              3 3 3
+3 3  3                             
 
 4 4   4    4 
 
 
+filter.txt
+2 2
+ 
+3 3 3
 
 Post run contents:
 
-FileToBeFiltered.txt               filter.txt
+FileToBeFiltered.txt               
 
-1                                   2 2
+1                                   
 
-4 4   4    4                        3 3 3
+4 4   4    4                        
 
 
+filter.txt
+2 2
+ 
+3 3 3
