@@ -25,7 +25,7 @@ filter.txt
 Post run contents:
 
 FileToBeFiltered.txt               
-1                                   
+1
 4 4   4    4                        
 
 filter.txt
